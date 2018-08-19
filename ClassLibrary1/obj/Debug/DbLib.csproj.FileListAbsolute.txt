@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Dimon\00-SimpleProj\SimpleProject\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Administrator\Desktop\Dimon\00-SimpleProj\SimpleProject\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Administrator\Desktop\Dimon\00-SimpleProj\SimpleProject\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Administrator\Desktop\Dimon\00-SimpleProj\SimpleProject\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Administrator\Desktop\Dimon\00-SimpleProj\SimpleProject\ClassLibrary1\obj\Debug\DbLib.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Dimon\00-SimpleProjList\SimpleProject\ClassLibrary1\obj\Debug\DbLib.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Dimon\00-SimpleProjList\SimpleProject\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Administrator\Desktop\Dimon\00-SimpleProjList\SimpleProject\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Administrator\Desktop\Dimon\00-SimpleProjList\SimpleProject\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Administrator\Desktop\Dimon\00-SimpleProjList\SimpleProject\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
